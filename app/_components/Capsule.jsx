@@ -31,6 +31,7 @@ export default function Capsule({ capsule }) {
                 <div className="icon" style={{ backgroundImage: `url(${capsule.icon})` }}></div>
                 {/* <img src={capsule.icon} alt="" /> */}
                 <h2>{capsule.titre}</h2>
+                <p>{capsule.statut}</p>
 
 
             </div>

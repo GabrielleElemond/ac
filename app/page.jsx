@@ -1,4 +1,4 @@
-import Quiz from "./_components/Quiz"
+
 import Module from "./_components/Module.jsx";
 
 export default function Home() {

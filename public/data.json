@@ -1,11 +1,12 @@
 {
-    "modules": [ 
+    "modules": [
         {
             "icon": "/shield.png",
             "texte": "",
             "capsules": [
                 {
                     "titre": "Outils de coupe",
+                    "statut": "",
                     "video": "https://media.milanote.com/p/files/1VZhPl1gdLYrgs/gPM/Capsule01_2.mp4",
                     "icon": "/couteau.png",
                     "icon_hover": "/couteau_jaune.png",
@@ -41,7 +42,7 @@
                                 "https://media.milanote.com/p/files/1VZnCO1gdLYrh0/kxJ/20260308_192049.mp4",
                                 "https://media.milanote.com/p/files/1VZnCY1gdLYrh1/OUV/20260308_192135.mp4",
                                 "https://media.milanote.com/p/files/1VZnD81gdLYrh2/yFh/20260308_192341.mp4",
-                                "https://media.milanote.com/p/files/1VZmJn1gdLYrgQ/B93/C1Q4_4.mp4"
+                                "https://media.milanote.com/p/files/1VZoIJ1gdLYrh4/aLy/C1Q4_5.mp4"
                             ]
                         },
                         {
@@ -90,7 +91,7 @@
                             ],
                             "reponses_images": [
                                 "https://media.milanote.com/p/files/1VZmKB1gdLYrgR/lit/20260303_140201.mp4",
-                                "https://media.milanote.com/p/files/1VZmKU1gdLYrgS/Res/20260303_140000.mp4",
+                                "https://media.milanote.com/p/files/1VZoK31gdLYrh5/YfU/20260308_185528.mp4",
                                 "https://media.milanote.com/p/files/1VZlH11gdLYrgB/j4z/20260303_140732.mp4",
                                 "https://media.milanote.com/p/files/1VZmMr1gdLYrgU/xZK/20260303_140753.mp4"
                             ]
@@ -99,6 +100,7 @@
                 },
                 {
                     "titre": "Outils de cuisson",
+                    "statut": "à venir",
                     "video": "http://placecats.com/400/600",
                     "icon": "/poele.png",
                     "icon_hover": "/poele_jaune.png",
@@ -192,6 +194,7 @@
                 },
                 {
                     "titre": "Mythes et Méli-mélo",
+                    "statut": "à venir",
                     "video": "http://placecats.com/400/600",
                     "icon": "/question.png",
                     "icon_hover": "/poele_jaune.png",
@@ -285,6 +288,7 @@
                 },
                 {
                     "titre": "Sauce & Vinaigrettes",
+                    "statut": "à venir",
                     "video": "",
                     "icon": "/question.png",
                     "icon_hover": "/poele_jaune.png",
@@ -298,6 +302,7 @@
             "capsules": [
                 {
                     "titre": "Légumes",
+                    "statut": "à venir",
                     "video": "https://youtu.be/zR9jYF66Pgk",
                     "icon": "/couteau.png",
                     "icon_hover": "/couteau_jaune.png",
@@ -305,6 +310,7 @@
                 },
                 {
                     "titre": "Protéines",
+                    "statut": "à venir",
                     "video": "http://placecats.com/400/600",
                     "icon": "/poele.png",
                     "icon_hover": "/poele_jaune.png",
@@ -312,6 +318,7 @@
                 },
                 {
                     "titre": "Faire un choix éclairé",
+                    "statut": "à venir",
                     "video": "http://placecats.com/400/600",
                     "icon": "/question.png",
                     "icon_hover": "/poele_jaune.png",
@@ -325,6 +332,7 @@
             "capsules": [
                 {
                     "titre": "La chimie de la pâtisserie",
+                    "statut": "à venir",
                     "video": "",
                     "icon": "/couteau.png",
                     "icon_hover": "/couteau_jaune.png",
@@ -332,6 +340,7 @@
                 },
                 {
                     "titre": "Épices/Fines herbes",
+                    "statut": "à venir",
                     "video": "",
                     "icon": "/poele.png",
                     "icon_hover": "/poele_jaune.png",
@@ -339,6 +348,7 @@
                 },
                 {
                     "titre": "Les 5 saveurs",
+                    "statut": "à venir",
                     "video": "",
                     "icon": "/question.png",
                     "icon_hover": "/poele_jaune.png",
@@ -346,6 +356,7 @@
                 },
                 {
                     "titre": "Sauce & Vinaigrettes",
+                    "statut": "à venir",
                     "video": "",
                     "icon": "/question.png",
                     "icon_hover": "/poele_jaune.png",
