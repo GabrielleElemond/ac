@@ -1,0 +1,132 @@
+.capsule {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* width: 80%; */
+    padding: 1em;
+    margin: 1rem;
+    border: 1px solid var(--reglisse);
+    border-radius: 1em;
+    cursor: pointer;
+
+    &:hover {
+        opacity: 0.7;
+    }
+
+    .icon {
+        width: 90px;
+        height: 90px;
+        background-size: contain;
+    }
+
+
+
+}
+
+.video {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--vanille);
+    border: 2px solid var(--reglisse);
+    border-radius: 1rem;
+    top: 50;
+    left: 50;
+    bottom: 50;
+    right: 50;
+
+    video {
+        width: 65%;
+    }
+
+    .x {
+        position: absolute;
+        right: 10;
+        top: 10;
+        width: 50px;
+        height: 50px;
+        background-size: contain;
+        cursor: pointer;
+    }
+
+    .bouton {
+        background-color: var(--porcelaine);
+        width: min-content;
+        padding: 0.2rem 3rem;
+        margin: 1rem;
+        border-radius: 1rem;
+        border: 2px solid var(--reglisse);
+
+    }
+
+
+}
+
+.bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    backdrop-filter: blur(10px);
+    background-color: var(--reglisse_transparent);
+    z-index: 0;
+}
+
+.questions {
+    position: fixed;
+    z-index: 100;
+    /* background-color: var(--vanille); */
+    top: 50;
+    left: 50;
+    right: 50;
+    border-radius: 1rem;
+
+
+    .question {
+        display: flex;
+        position: absolute;
+        flex-direction: column;
+        background-color: var(--banane);
+        box-shadow: 3px 3px 10px var(--reglisse);
+        border-radius: 8px;
+        margin: 0rem 0rem 5rem 0rem;
+        padding: 1em 2em 5em 2em;
+        top: 0px;
+        transition: all 0.5s ease;
+        cursor: pointer;
+
+        /* @starting-style {
+            top: 50px;
+            opacity: 0;
+        }
+
+        &.ferme {
+            top: 50px;
+            opacity: 0;
+        } */
+    }
+
+    .reponse {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-template-rows: 50% 50%;
+        gap: 1rem;
+        max-height: 70vh;
+    }
+
+}
+
+
+/* .capsule:hover {
+    background-color: var(--porcelaine);
+    border-color: var(--miel);
+
+    h2 {
+
+        color: var(--miel);
+    }
+} */

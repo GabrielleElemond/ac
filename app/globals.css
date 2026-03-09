@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&display=swap');
+
+:root {
+  --banane: rgb(235, 222, 182);
+  --miel: #cfb471;
+  --vanille: #fdfbf3;
+  --reglisse: #474747;
+  --reglisse_transparent: #4747477e;
+  --porcelaine: #dfdfdf;
+  --transparent: rgba(255, 255, 255, 0);
+
+}
+
+body {
+  /* font-family: "Sour Gummy", sans-serif; */
+  background-image: url(/walpaperTEST.jpg);
+  /* background-color: var(--banane); */
+  color: var(--réglisse);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  top: 0;
+  background-color: var(--reglisse);
+  width: 100vw;
+  height: 100px;
+  box-shadow: 5px 5px 10px var(--reglisse_transparent);
+  margin-bottom: 4rem;
+
+  h1 {
+    padding: 0.2em;
+    color: var(--banane);
+  }
+}
+
+.espace {
+  height: 170px;
+}
+
+h1 {
+  font-family: "Cabin Sketch", sans-serif;
+  font-weight: 400;
+  font-size: 4rem;
+  font-style: normal;
+  margin: 0;
+  color: var(--reglisse);
+}
+
+h2 {
+  font-family: "Sour Gummy", sans-serif;
+  color: var(--reglisse);
+}
+
+h3 {
+  font-family: "Sour Gummy", sans-serif;
+  color: var(--reglisse);
+  font-style: italic;
+}
