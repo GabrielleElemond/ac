@@ -6,7 +6,8 @@
     /* width: 80%; */
     padding: 1em;
     margin: 1rem;
-    border: 1px solid var(--reglisse);
+    /* border: 1px solid var(--reglisse); */
+    background-color: var(--porcelaine);
     border-radius: 1em;
     cursor: pointer;
 
@@ -37,7 +38,7 @@
     justify-content: center;
     align-items: center;
     background-color: var(--vanille);
-    border: 2px solid var(--reglisse);
+    /* border: 2px solid var(--reglisse); */
     border-radius: 1rem;
     top: 50;
     left: 50;

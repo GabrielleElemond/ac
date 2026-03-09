@@ -2,6 +2,7 @@
     "modules": [
         {
             "icon": "/shield.png",
+            "titre": "Sécurité",
             "texte": "",
             "capsules": [
                 {
@@ -298,7 +299,8 @@
         },
         {
             "icon": "/fire.png",
-            "texte": "À venir",
+            "titre": "Type de coupe",
+            "texte": " ... À venir",
             "capsules": [
                 {
                     "titre": "Légumes",
@@ -328,7 +330,8 @@
         },
         {
             "icon": "/chimie.png",
-            "texte": "À venir",
+            "titre": "La Chimie en cuisine",
+            "texte": " ... À venir",
             "capsules": [
                 {
                     "titre": "La chimie de la pâtisserie",

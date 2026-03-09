@@ -1,5 +1,6 @@
 
 import Module from "./_components/Module.jsx";
+import Intro from "./_components/Intro.jsx";
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
       <Module numero={1}></Module>
       <Module numero={2}></Module>
       <Module numero={3}></Module>
+      <Intro></Intro>
     </>
   );
 }
