@@ -2,13 +2,13 @@
     "modules": [
         {
             "icon": "/shield.png",
-            "titre": "Sécurité",
+            "titre": "Débutant",
             "texte": "",
             "capsules": [
                 {
                     "titre": "Outils de coupe",
                     "statut": "",
-                    "video": "https://media.milanote.com/p/files/1VZhPl1gdLYrgs/gPM/Capsule01_2.mp4",
+                    "video": "https://media.milanote.com/p/files/1VZXff1CItSc7g/t1a/Capsule01_2_compressed.mp4",
                     "icon": "/couteau.png",
                     "icon_hover": "/couteau_jaune.png",
                     "questions": [
@@ -23,10 +23,10 @@
                                 "d"
                             ],
                             "reponses_images": [
-                                "https://media.milanote.com/p/files/1VZlGE1gdLYrgA/OJ3/20260303_140753.mp4",
-                                "https://media.milanote.com/p/files/1VZlHQ1gdLYrgD/w0n/20260303_140126.mp4",
-                                "https://media.milanote.com/p/files/1VZlHq1gdLYrgC/s2w/20260303_140500.mp4",
-                                "https://media.milanote.com/p/files/1VZmLj1gdLYrgT/3VS/20260303_140111.mp4"
+                                "https://media.milanote.com/p/files/1VZWZc1CItSc6W/fLy/20260303_140753_compressed.mp4",
+                                "https://media.milanote.com/p/files/1VZWZc1CItSc6Y/Y2c/20260303_140126_compressed.mp4",
+                                "https://media.milanote.com/p/files/1VZWZc1CItSc6X/T01/20260303_140500_compressed.mp4",
+                                "https://media.milanote.com/p/files/1W0m4A1ss96S0O/UbE/Comp%201_1_compressed.mp4"
                             ]
                         },
                         {
@@ -40,10 +40,10 @@
                                 "d"
                             ],
                             "reponses_images": [
-                                "https://media.milanote.com/p/files/1VZnCO1gdLYrh0/kxJ/20260308_192049.mp4",
-                                "https://media.milanote.com/p/files/1VZnCY1gdLYrh1/OUV/20260308_192135.mp4",
-                                "https://media.milanote.com/p/files/1VZnD81gdLYrh2/yFh/20260308_192341.mp4",
-                                "https://media.milanote.com/p/files/1VZoIJ1gdLYrh4/aLy/C1Q4_5.mp4"
+                                "https://media.milanote.com/p/files/1VZX2f1CItSc73/y3C/20260308_192049_compressed.mp4",
+                                "https://media.milanote.com/p/files/1VZX2f1CItSc72/kWD/20260308_192135_compressed.mp4",
+                                "https://media.milanote.com/p/files/1VZX2f1CItSc70/USn/20260308_192341_compressed.mp4",
+                                "https://media.milanote.com/p/files/1VZX2f1CItSc71/TZ8/C1Q4_5_compressed.mp4"
                             ]
                         },
                         {
@@ -57,10 +57,10 @@
                                 "d"
                             ],
                             "reponses_images": [
-                                "https://media.milanote.com/p/files/1VZm0v1gdLYrgJ/GwH/20260303_140434.mp4",
-                                "https://media.milanote.com/p/files/1VZm0f1gdLYrgI/SKG/20260303_140500.mp4",
-                                "https://media.milanote.com/p/files/1VZlZG1gdLYrgH/eR1/20260303_140312.mp4",
-                                "https://media.milanote.com/p/files/1VZnDx1gdLYrh3/e4s/20260308_185959.mp4"
+                                "https://media.milanote.com/p/files/1VZX2r1CItSc75/Ez1/20260303_140434_compressed.mp4",
+                                "https://media.milanote.com/p/files/1VZX2r1CItSc74/r0J/20260303_140500_compressed.mp4",
+                                "https://media.milanote.com/p/files/1VZX2r1CItSc76/sbG/20260303_140312_compressed.mp4",
+                                "https://media.milanote.com/p/files/1VZX2r1CItSc77/NBP/20260308_185959_compressed.mp4"
                             ]
                         },
                         {
@@ -74,10 +74,10 @@
                                 "d"
                             ],
                             "reponses_images": [
-                                "https://media.milanote.com/p/files/1VZmG91gdLYrgN/OJX/C1Q4_1.mp4",
-                                "https://media.milanote.com/p/files/1VZmGc1gdLYrgO/4gQ/C1Q4_2.mp4",
-                                "https://media.milanote.com/p/files/1VZmG51gdLYrgM/Lip/C1Q4_3.mp4",
-                                "https://media.milanote.com/p/files/1VZmGm1gdLYrgP/mug/C1Q4.mp4"
+                                "https://media.milanote.com/p/files/1VZX2D1CItSc78/o1i/C1Q4_1_compressed.mp4",
+                                "https://media.milanote.com/p/files/1VZX2D1CItSc79/QRR/C1Q4_2_compressed.mp4",
+                                "https://media.milanote.com/p/files/1VZX2D1CItSc7a/QzY/C1Q4_3_compressed.mp4",
+                                "https://media.milanote.com/p/files/1VZX2D1CItSc7b/jdN/C1Q4_compressed.mp4"
                             ]
                         },
                         {
@@ -91,10 +91,10 @@
                                 "d"
                             ],
                             "reponses_images": [
-                                "https://media.milanote.com/p/files/1VZmKB1gdLYrgR/lit/20260303_140201.mp4",
-                                "https://media.milanote.com/p/files/1VZoK31gdLYrh5/YfU/20260308_185528.mp4",
-                                "https://media.milanote.com/p/files/1VZlH11gdLYrgB/j4z/20260303_140732.mp4",
-                                "https://media.milanote.com/p/files/1VZmMr1gdLYrgU/xZK/20260303_140753.mp4"
+                                "https://media.milanote.com/p/files/1VZX2O1CItSc7f/9XO/20260303_140201_compressed.mp4",
+                                "https://media.milanote.com/p/files/1VZX2O1CItSc7c/r9U/20260308_185528_compressed.mp4",
+                                "https://media.milanote.com/p/files/1VZX2O1CItSc7e/TPw/20260303_140732_compressed.mp4",
+                                "https://media.milanote.com/p/files/1VZX2O1CItSc7d/Iav/20260303_140753_compressed.mp4"
                             ]
                         }
                     ]
@@ -194,101 +194,23 @@
                     ]
                 },
                 {
-                    "titre": "Mythes & Méli-mélo",
+                    "titre": "Guide Santé",
                     "statut": "à venir",
                     "video": "http://placecats.com/400/600",
                     "icon": "/question.png",
                     "icon_hover": "/poele_jaune.png",
-                    "questions": [
-                        {
-                            "enonce": "1- Pourquoi je ne devrais pas manger des sushis à tout les repas?",
-                            "video_explication": "",
-                            "bonne_reponse": 1,
-                            "reponses_texte": [
-                                "a",
-                                "b",
-                                "c",
-                                "d"
-                            ],
-                            "reponses_images": [
-                                "/images.jpg",
-                                "/images2.jpg",
-                                "/images.webp",
-                                "/images2.webp"
-                            ]
-                        },
-                        {
-                            "enonce": "2- Quelle option serait une bonne idée afin d'avoir des légumes grillés et croustillants?",
-                            "video_explication": "",
-                            "bonne_reponse": 1,
-                            "reponses_texte": [
-                                "a",
-                                "b",
-                                "c",
-                                "d"
-                            ],
-                            "reponses_images": [
-                                "/images.jpg",
-                                "/images2.jpg",
-                                "/images.webp",
-                                "/images2.webp"
-                            ]
-                        },
-                        {
-                            "enonce": "3- Est-ce que je peux cuire mes légumes au four micro-onde?",
-                            "video_explication": "",
-                            "bonne_reponse": 1,
-                            "reponses_texte": [
-                                "a",
-                                "b",
-                                "c",
-                                "d"
-                            ],
-                            "reponses_images": [
-                                "/images.jpg",
-                                "/images2.jpg",
-                                "/images.webp",
-                                "/images2.webp"
-                            ]
-                        },
-                        {
-                            "enonce": "4- À quoi je dois faire attention lorsque j'utilise des tôles pour une cuisson au four?",
-                            "video_explication": "",
-                            "bonne_reponse": 1,
-                            "reponses_texte": [
-                                "a",
-                                "b",
-                                "c",
-                                "d"
-                            ],
-                            "reponses_images": [
-                                "/images.jpg",
-                                "/images2.jpg",
-                                "/images.webp",
-                                "/images2.webp"
-                            ]
-                        },
-                        {
-                            "enonce": "5- À quoi je dois faire attention lorsque j'utilise un plat en verre trempé de type Pyrex pour une cuisson au four?",
-                            "video_explication": "",
-                            "bonne_reponse": 1,
-                            "reponses_texte": [
-                                "a",
-                                "b",
-                                "c",
-                                "d"
-                            ],
-                            "reponses_images": [
-                                "/images.jpg",
-                                "/images2.jpg",
-                                "/images.webp",
-                                "/images2.webp"
-                            ]
-                        }
-                    ]
+                    "questions": []
                 },
                 {
-                    "titre": "Sauce & Vinaigrettes",
+                    "titre": "Volume VS Poids",
+                    "statut": "à venir",
+                    "video": "",
+                    "icon": "/question.png",
+                    "icon_hover": "/poele_jaune.png",
+                    "questions": []
+                },
+                {
+                    "titre": "Température & Temps de cuisson",
                     "statut": "à venir",
                     "video": "",
                     "icon": "/question.png",
@@ -299,11 +221,11 @@
         },
         {
             "icon": "/fire.png",
-            "titre": "Type de coupe",
+            "titre": "Intermédiaire",
             "texte": " ... À venir",
             "capsules": [
                 {
-                    "titre": "Légumes",
+                    "titre": "Différentes coupes de légume",
                     "statut": "à venir",
                     "video": "https://youtu.be/zR9jYF66Pgk",
                     "icon": "/couteau.png",
@@ -311,7 +233,7 @@
                     "questions": []
                 },
                 {
-                    "titre": "Protéines",
+                    "titre": "Différentes coupes de viande",
                     "statut": "à venir",
                     "video": "http://placecats.com/400/600",
                     "icon": "/poele.png",
@@ -319,10 +241,26 @@
                     "questions": []
                 },
                 {
-                    "titre": "Faire un choix éclairé",
+                    "titre": "Faire des choix éclairés",
                     "statut": "à venir",
                     "video": "http://placecats.com/400/600",
                     "icon": "/question.png",
+                    "icon_hover": "/poele_jaune.png",
+                    "questions": []
+                },
+                {
+                    "titre": "Mythes",
+                    "statut": "à venir",
+                    "video": "http://placecats.com/400/600",
+                    "icon": "/poele.png",
+                    "icon_hover": "/poele_jaune.png",
+                    "questions": []
+                },
+                {
+                    "titre": "Méli-mélo",
+                    "statut": "à venir",
+                    "video": "http://placecats.com/400/600",
+                    "icon": "/poele.png",
                     "icon_hover": "/poele_jaune.png",
                     "questions": []
                 }
@@ -330,7 +268,7 @@
         },
         {
             "icon": "/chimie.png",
-            "titre": "La Chimie en cuisine",
+            "titre": "Avancer",
             "texte": " ... À venir",
             "capsules": [
                 {

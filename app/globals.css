@@ -35,7 +35,7 @@ header {
   /* height: 100px; */
   box-shadow: 5px 5px 10px var(--reglisse_transparent);
   margin-bottom: 4rem;
-  z-index: 999;
+  z-index: 99;
 
   h1 {
     padding: 0.08em;

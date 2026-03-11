@@ -5,8 +5,8 @@ import { useState } from "react";
 export default function Capsule({ capsule }) {
 
     const [videoOuvert, setVideoOuvert] = useState(false)
-    // const [quizOuvert, setQuizOuvert] = useState(false)
-    const [quizOuvert, setQuizOuvert] = useState(capsule.titre === "Outils de coupe")
+    const [quizOuvert, setQuizOuvert] = useState(false)
+    // const [quizOuvert, setQuizOuvert] = useState(capsule.titre === "Outils de coupe")
     const [indexQuestionActive, setIndexQuestionActive] = useState(0)
 
     function toggleVideo() {
@@ -33,8 +33,8 @@ export default function Capsule({ capsule }) {
         <>
 
             <div className={"capsule " + ((capsule.statut === "à venir") ? "desactive" : "actif")} onClick={toggleVideo}>
-                <div className="icon" style={{ backgroundImage: `url(${capsule.icon})` }}></div>
-                {/* <img src={capsule.icon} alt="" /> */}
+                {/* <div className="icon" style={{ backgroundImage: `url(${capsule.icon})` }}></div> */}
+                <img src={capsule.icon} alt="" className="icon" />
                 <h2>{capsule.titre}</h2>
                 <p>{capsule.statut}</p>
 
