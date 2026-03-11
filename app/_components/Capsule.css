@@ -10,9 +10,15 @@
     background-color: var(--porcelaine);
     border-radius: 1em;
     cursor: pointer;
+    width: 220px;
+    text-align: center;
 
     &:hover {
         opacity: 0.7;
+    }
+
+    &.desactive {
+        pointer-events: none;
     }
 
     .icon {
@@ -38,15 +44,19 @@
     justify-content: center;
     align-items: center;
     background-color: var(--vanille);
-    /* border: 2px solid var(--reglisse); */
     border-radius: 1rem;
+    z-index: 1;
     top: 50;
     left: 50;
     bottom: 50;
     right: 50;
 
     video {
-        width: 65%;
+        width: 85%;
+
+        @media screen and (max-width: 1200px) {
+            width: 95%;
+        }
     }
 
     .x {
@@ -106,7 +116,7 @@
         transition: all 0.5s ease;
         cursor: pointer;
 
-        /* @starting-style {
+        @starting-style {
             top: 50px;
             opacity: 0;
         }
@@ -114,7 +124,7 @@
         &.ferme {
             top: 50px;
             opacity: 0;
-        } */
+        }
     }
 
     .reponse {

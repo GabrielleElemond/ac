@@ -39,10 +39,10 @@
         padding: 20px;
         scale: 1;
         transition: all 0.7s ease;
-        /* 
+
         @starting-style {
             scale: 0;
-        } */
+        }
     }
 }
 

@@ -3,14 +3,16 @@
 import { useState } from "react"
 import "./Reponse.css"
 
-export default function Reponse({ lettre, image, correct, choisirReponse }) {
+export default function Reponse({ lettre, image, correct, choisirReponse, bonneReponse }) {
 
     const [actif, setActif] = useState(false)
 
     function click() {
-        if (actif === false) {
-            setActif(true)
-            choisirReponse(correct)
+        if (bonneReponse !== true) {
+            if (actif === false) {
+                setActif(true)
+                choisirReponse(correct)
+            }
         }
     }
 

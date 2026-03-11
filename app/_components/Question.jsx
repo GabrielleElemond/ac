@@ -6,9 +6,12 @@ import Reponse from "./Reponse"
 export default function Question({ question, prochaineQuestion }) {
 
     const [cssClass, setCssClass] = useState("")
+    const [bonneReponse, setBonneReponse] = useState(false)
 
     function choisirReponse(correct) {
         if (correct === true) {
+            setBonneReponse(true)
+            
             setTimeout(() => {
                 setCssClass("ferme")
             }, 1000)
@@ -24,7 +27,7 @@ export default function Question({ question, prochaineQuestion }) {
 
         <div className="reponse">
             {question.reponses_images.map((image, index) =>
-                <Reponse key={question.enonce + image} lettre={question.reponses_texte[index]} image={image} correct={question.bonne_reponse === index} choisirReponse={choisirReponse}></Reponse>
+                <Reponse key={question.enonce + image} bonneReponse={bonneReponse} lettre={question.reponses_texte[index]} image={image} correct={question.bonne_reponse === index} choisirReponse={choisirReponse}></Reponse>
             )}
         </div>
     </div>
