@@ -96,6 +96,57 @@
                                 "https://media.milanote.com/p/files/1VZX2O1CItSc7e/TPw/20260303_140732_compressed.mp4",
                                 "https://media.milanote.com/p/files/1VZX2O1CItSc7d/Iav/20260303_140753_compressed.mp4"
                             ]
+                        },
+                        {
+                            "enonce": "6- Avec quoi je dois laver mon poulet?",
+                            "video_explication": "",
+                            "bonne_reponse": 2,
+                            "reponses_texte": [
+                                "a",
+                                "b",
+                                "c",
+                                "d"
+                            ],
+                            "reponses_images": [
+                                "",
+                                "",
+                                "",
+                                ""
+                            ]
+                        },
+                        {
+                            "enonce": "7- Pour quelle raison ma blonde risque-t-elle d'être malade?",
+                            "video_explication": "",
+                            "bonne_reponse": 1,
+                            "reponses_texte": [
+                                "a",
+                                "b",
+                                "c",
+                                "d"
+                            ],
+                            "reponses_images": [
+                                "",
+                                "",
+                                "",
+                                ""
+                            ]
+                        },
+                        {
+                            "enonce": "8- Pourquoi je dois aiguiser mon couteau environ une fois par mois?",
+                            "video_explication": "",
+                            "bonne_reponse": 0,
+                            "reponses_texte": [
+                                "a",
+                                "b",
+                                "c",
+                                "d"
+                            ],
+                            "reponses_images": [
+                                "",
+                                "",
+                                "",
+                                ""
+                            ]
                         }
                     ]
                 },
@@ -176,6 +227,57 @@
                         },
                         {
                             "enonce": "5- À quoi je dois faire attention lorsque j'utilise un plat en verre trempé de type Pyrex pour une cuisson au four?",
+                            "video_explication": "",
+                            "bonne_reponse": 2,
+                            "reponses_texte": [
+                                "a",
+                                "b",
+                                "c",
+                                "d"
+                            ],
+                            "reponses_images": [
+                                "/images.jpg",
+                                "/images2.jpg",
+                                "/images.webp",
+                                "/images2.webp"
+                            ]
+                        },
+                        {
+                            "enonce": "6- Sur quelle surface devrais-je déposer mon plat qui sort du four?",
+                            "video_explication": "",
+                            "bonne_reponse": 2,
+                            "reponses_texte": [
+                                "a",
+                                "b",
+                                "c",
+                                "d"
+                            ],
+                            "reponses_images": [
+                                "/images.jpg",
+                                "/images2.jpg",
+                                "/images.webp",
+                                "/images2.webp"
+                            ]
+                        },
+                        {
+                            "enonce": "7- Si je veux une cuisson rapide avec des légumes croustillants et grillé, quel appareil devrais-je utiliser?",
+                            "video_explication": "",
+                            "bonne_reponse": 2,
+                            "reponses_texte": [
+                                "a",
+                                "b",
+                                "c",
+                                "d"
+                            ],
+                            "reponses_images": [
+                                "/images.jpg",
+                                "/images2.jpg",
+                                "/images.webp",
+                                "/images2.webp"
+                            ]
+                        },
+                        {
+                            "enonce": "8- Pourquoi je dois réduire le temps de cuisson lorsque j'utilise une tôle foncé?",
                             "video_explication": "",
                             "bonne_reponse": 2,
                             "reponses_texte": [
