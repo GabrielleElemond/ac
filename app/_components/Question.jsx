@@ -8,15 +8,20 @@ export default function Question({ question, prochaineQuestion }) {
     const [cssClass, setCssClass] = useState("")
     const [bonneReponse, setBonneReponse] = useState(false)
 
+
+    // c'est une fonction qui est appelée par une réponse lors d'un clic, le paramètre correct est renvoyé par la réponse
+    // afin de dire a son parent qu'elle est la bonne réponse. Cette fonction est utile pour savoir si la bonne réponse
+    // a été cliqué afin de pouvoir passer à la prochaine question ^u^
     function choisirReponse(correct) {
+
         if (correct === true) {
             setBonneReponse(true)
-            
-            setTimeout(() => {
+
+            setTimeout(() => { // sert à changer le className pour l'animation de fermeture
                 setCssClass("ferme")
             }, 1000)
 
-            setTimeout(() => {
+            setTimeout(() => { // sert à afficher la prochaine question
                 prochaineQuestion()
             }, 1500)
         }
