@@ -98,7 +98,7 @@
                             ]
                         },
                         {
-                            "enonce": "6- Avec quoi je dois laver mon poulet?",
+                            "enonce": "6- Avec quoi dois-je laver mon poulet?",
                             "video_explication": "",
                             "bonne_reponse": 2,
                             "reponses_texte": [
@@ -108,16 +108,16 @@
                                 "d"
                             ],
                             "reponses_images": [
+                                "https://media.milanote.com/p/files/1W0Klq1sqFuP4H/RId/reponse_1.mp4",
                                 "",
-                                "",
-                                "",
+                                "https://media.milanote.com/p/files/1W0KiD1sqFuP4G/CuE/reponse.mp4",
                                 ""
                             ]
                         },
                         {
                             "enonce": "7- Pour quelle raison ma blonde risque-t-elle d'être malade?",
                             "video_explication": "",
-                            "bonne_reponse": 1,
+                            "bonne_reponse": 3,
                             "reponses_texte": [
                                 "a",
                                 "b",
@@ -125,10 +125,10 @@
                                 "d"
                             ],
                             "reponses_images": [
-                                "",
-                                "",
-                                "",
-                                ""
+                                "https://media.milanote.com/p/files/1W0Kyy1sqFuP4J/G29/reponse_3.mp4",
+                                "https://media.milanote.com/p/files/1W0KyD1sqFuP4K/Vuv/reponse_4.mp4",
+                                "https://media.milanote.com/p/files/1W0KyH1sqFuP4L/U8G/reponse_5.mp4",
+                                "https://media.milanote.com/p/files/1W0KyL1sqFuP4M/51y/reponse_2.mp4"
                             ]
                         },
                         {
@@ -143,17 +143,17 @@
                             ],
                             "reponses_images": [
                                 "",
-                                "",
-                                "",
-                                ""
+                                "https://media.milanote.com/p/files/1W0KI21sqFuP4N/cM0/reponse_6.mp4",
+                                "https://media.milanote.com/p/files/1W0KI81sqFuP4O/x82/reponse_8.mp4",
+                                "https://media.milanote.com/p/files/1W0KIc1sqFuP4P/B64/reponse_9.mp4"
                             ]
                         }
                     ]
                 },
                 {
                     "titre": "Outils de cuisson",
-                    "statut": "à venir",
-                    "video": "http://placecats.com/400/600",
+                    "statut": "",
+                    "video": "https://media.milanote.com/p/files/1W08GS1YOt4547/Ada/capsule2.mp4",
                     "icon": "/poele.png",
                     "icon_hover": "/poele_jaune.png",
                     "questions": [
@@ -168,10 +168,10 @@
                                 "d"
                             ],
                             "reponses_images": [
-                                "/https://media.milanote.com/p/files/1W0ubj1ss96S11/IDE/C1Q4_9_compressed.mp4",
-                                "/https://media.milanote.com/p/files/1W0ubm1ss96S12/XgD/C1Q4_10_compressed.mp4",
-                                "/https://media.milanote.com/p/files/1W0ubq1ss96S13/hTb/C1Q4_11_compressed.mp4",
-                                "/https://media.milanote.com/p/files/1W0ubu1ss96S14/BMa/C1Q4_12_compressed.mp4"
+                                "https://media.milanote.com/p/files/1W0ubj1ss96S11/IDE/C1Q4_9_compressed.mp4",
+                                "https://media.milanote.com/p/files/1W0ubm1ss96S12/XgD/C1Q4_10_compressed.mp4",
+                                "https://media.milanote.com/p/files/1W0ubq1ss96S13/hTb/C1Q4_11_compressed.mp4",
+                                "https://media.milanote.com/p/files/1W0ubu1ss96S14/BMa/C1Q4_12_compressed.mp4"
                             ]
                         },
                         {
