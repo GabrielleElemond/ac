@@ -1,0 +1,17 @@
+.perso {
+    position: relative;
+    top: -10px;
+    height: 100px;
+    overflow: visible;
+
+    img {
+        height: 200px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+
+        &:hover {
+            scale: 1.1;
+            rotate: 5deg;
+        }
+    }
+}
