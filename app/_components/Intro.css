@@ -12,6 +12,10 @@
     .conteneur {
         position: relative;
 
+        .video_intro {
+            width: 60vw;
+        }
+
         .play {
             position: absolute;
             top: 0px;
