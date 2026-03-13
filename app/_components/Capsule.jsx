@@ -42,7 +42,6 @@ export default function Capsule({ capsule }) {
             </div>
             {videoOuvert ? <>
                 <div className="video">
-                    <div className="x" style={{ backgroundImage: "url(x.png)" }} onClick={toggleVideo}></div>
                     <video src={capsule.video} autoPlay onEnded={ouvrirQuiz} controls></video>
                 </div>
                 <div className="bg" onClick={fermerQuiz}></div>
