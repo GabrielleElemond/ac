@@ -1,6 +1,6 @@
 "use client"
 
-import { useRef, useState } from "react"
+import { useEffect, useRef, useState } from "react"
 import "./Intro.css"
 import { useRouter } from "next/navigation.js"
 import Link from "next/link.js"
@@ -10,6 +10,10 @@ export default function () {
     const video = useRef()
     const [boutonStyles, setBoutonStyles] = useState({})
     const router = useRouter()
+
+    useEffect(() => {
+        video.current.volume = 0.5
+    }, [])
 
     function pageSuivante() {
         router.push("liste")
