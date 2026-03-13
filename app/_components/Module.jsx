@@ -17,7 +17,7 @@ export default function Module({ numero }) {
     return <div className="module">
         <div className="module_titre">
 
-            <div className="image_titre"><div className="image" style={{ backgroundImage: `url(${module.icon})` }} ></div>
+            <div className="image_titre">
                 <h1>{module.titre}</h1></div>
             <h3> {module.texte}</h3>
         </div>
