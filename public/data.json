@@ -12,7 +12,7 @@
                     "icon_hover": "/couteau_jaune.png",
                     "questions": [
                         {
-                            "enonce": "1- Comment placer ses mains de façon sécuritaire pour couper des éléments",
+                            "enonce": "1- Comment placer ses mains en toute sécurité pour couper des éléments",
                             "video_explication": "",
                             "bonne_reponse": 2,
                             "reponses_texte": [
@@ -24,12 +24,12 @@
                             "reponses_images": [
                                 "https://media.milanote.com/p/files/1VZWZc1CItSc6W/fLy/20260303_140753_compressed.mp4",
                                 "https://media.milanote.com/p/files/1VZWZc1CItSc6Y/Y2c/20260303_140126_compressed.mp4",
-                                "https://media.milanote.com/p/files/1VZWZc1CItSc6X/T01/20260303_140500_compressed.mp4",
-                                "https://media.milanote.com/p/files/1W0m4A1ss96S0O/UbE/Comp%201_1_compressed.mp4"
+                                "https://media.milanote.com/p/files/1VZX2r1CItSc76/sbG/20260303_140312_compressed.mp4",
+                                "https://media.milanote.com/p/files/1VZX2O1CItSc7f/9XO/20260303_140201_compressed.mp4"
                             ]
                         },
                         {
-                            "enonce": "2- Quelle précausion prendre lorsque je coupe du poulet?",
+                            "enonce": "2- Quelle précaution prendre lorsque je coupe du poulet?",
                             "video_explication": "",
                             "bonne_reponse": 3,
                             "reponses_texte": [
@@ -46,7 +46,7 @@
                             ]
                         },
                         {
-                            "enonce": "3 -Sur quoi je NE dois PAS couper mes légumes?",
+                            "enonce": "3 -Sur quelle surface je NE dois PAS couper mes légumes?",
                             "video_explication": "",
                             "bonne_reponse": 0,
                             "reponses_texte": [
@@ -63,7 +63,7 @@
                             ]
                         },
                         {
-                            "enonce": "4- À quelle fréquence je devrais aiguiser mes couteaux?",
+                            "enonce": "4- À quelle fréquence devrais-je aiguiser mes couteaux?",
                             "video_explication": "",
                             "bonne_reponse": 2,
                             "reponses_texte": [
@@ -80,7 +80,7 @@
                             ]
                         },
                         {
-                            "enonce": "5- Quelle astuce je devrais utiliser afin de minimiser les chances de me couper?",
+                            "enonce": "5- Quelle astuce devrais-je utiliser afin de minimiser les chances de me couper?",
                             "video_explication": "",
                             "bonne_reponse": 1,
                             "reponses_texte": [
@@ -131,7 +131,7 @@
                             ]
                         },
                         {
-                            "enonce": "8- Pourquoi je dois aiguiser mon couteau environ une fois par mois?",
+                            "enonce": "8- Pourquoi dois-je aiguiser mon couteau environ une fois par mois?",
                             "video_explication": "",
                             "bonne_reponse": 0,
                             "reponses_texte": [
@@ -225,7 +225,7 @@
                             ]
                         },
                         {
-                            "enonce": "5- À quoi je dois faire attention lorsque j'utilise un plat en verre trempé de type Pyrex pour une cuisson au four?",
+                            "enonce": "5- À quoi dois-je faire attention lorsque j'utilise un plat en verre trempé de type Pyrex pour une cuisson au four?",
                             "video_explication": "",
                             "bonne_reponse": 2,
                             "reponses_texte": [
@@ -259,7 +259,7 @@
                             ]
                         },
                         {
-                            "enonce": "7- Si je veux une cuisson rapide avec des légumes croustillants et grillé, quel appareil devrais-je utiliser?",
+                            "enonce": "7- Si je veux une cuisson rapide et avoir des légumes croustillants et grillés, quel appareil devrais-je utiliser ?",
                             "video_explication": "",
                             "bonne_reponse": 0,
                             "reponses_texte": [
@@ -276,7 +276,7 @@
                             ]
                         },
                         {
-                            "enonce": "8- Pourquoi je dois réduire le temps de cuisson lorsque j'utilise une tôle foncé?",
+                            "enonce": "8- Pourquoi dois-je réduire le temps de cuisson lorsque j’utilise une tôle foncée ?",
                             "video_explication": "",
                             "bonne_reponse": 2,
                             "reponses_texte": [
