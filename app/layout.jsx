@@ -1,5 +1,9 @@
 import "./globals.css";
 
+export const metadata = {
+  title: 'Aide Cuisto'
+};
+
 export default function RootLayout({
   children,
 }) {
