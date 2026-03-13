@@ -1,7 +1,6 @@
 {
     "modules": [
         {
-            "icon": "/shield.png",
             "titre": "Débutant",
             "texte": "",
             "capsules": [
@@ -154,7 +153,7 @@
                     "titre": "Outils de cuisson",
                     "statut": "",
                     "video": "https://media.milanote.com/p/files/1W0QCk18CMAP0C/1SF/cap2final_compressed.mp4",
-                    "icon": "/poele.png",
+                    "icon": "/cuisson.png",
                     "icon_hover": "/poele_jaune.png",
                     "questions": [
                         {
@@ -296,33 +295,22 @@
                     ]
                 },
                 {
-                    "titre": "Guide Santé",
-                    "statut": "à venir",
-                    "video": "http://placecats.com/400/600",
-                    "icon": "/question.png",
-                    "icon_hover": "/poele_jaune.png",
-                    "questions": []
-                },
-                {
                     "titre": "Volume / Poids",
                     "statut": "à venir",
                     "video": "",
-                    "icon": "/question.png",
-                    "icon_hover": "/poele_jaune.png",
+                    "icon": "/balance.png",
                     "questions": []
                 },
                 {
                     "titre": "Température & Temps de cuisson",
                     "statut": "à venir",
                     "video": "",
-                    "icon": "/question.png",
-                    "icon_hover": "/poele_jaune.png",
+                    "icon": "/temps.png",
                     "questions": []
                 }
             ]
         },
         {
-            "icon": "/fire.png",
             "titre": "Intermédiaire",
             "texte": " ... À venir",
             "capsules": [
@@ -330,15 +318,14 @@
                     "titre": "Différentes coupes de légume",
                     "statut": "à venir",
                     "video": "https://youtu.be/zR9jYF66Pgk",
-                    "icon": "/couteau.png",
-                    "icon_hover": "/couteau_jaune.png",
+                    "icon": "/legumes.png",
                     "questions": []
                 },
                 {
                     "titre": "Différentes coupes de viande",
                     "statut": "à venir",
                     "video": "http://placecats.com/400/600",
-                    "icon": "/poele.png",
+                    "icon": "/viande.png",
                     "icon_hover": "/poele_jaune.png",
                     "questions": []
                 },
@@ -346,30 +333,13 @@
                     "titre": "Faire des choix éclairés",
                     "statut": "à venir",
                     "video": "http://placecats.com/400/600",
-                    "icon": "/question.png",
-                    "icon_hover": "/poele_jaune.png",
-                    "questions": []
-                },
-                {
-                    "titre": "Mythes",
-                    "statut": "à venir",
-                    "video": "http://placecats.com/400/600",
-                    "icon": "/poele.png",
-                    "icon_hover": "/poele_jaune.png",
-                    "questions": []
-                },
-                {
-                    "titre": "Méli-mélo",
-                    "statut": "à venir",
-                    "video": "http://placecats.com/400/600",
-                    "icon": "/poele.png",
+                    "icon": "/choix.png",
                     "icon_hover": "/poele_jaune.png",
                     "questions": []
                 }
             ]
         },
         {
-            "icon": "/chimie.png",
             "titre": "Avancer",
             "texte": " ... À venir",
             "capsules": [
@@ -377,7 +347,7 @@
                     "titre": "La chimie de la pâtisserie",
                     "statut": "à venir",
                     "video": "",
-                    "icon": "/couteau.png",
+                    "icon": "/chimie.png",
                     "icon_hover": "/couteau_jaune.png",
                     "questions": []
                 },
@@ -385,7 +355,7 @@
                     "titre": "Épices/Fines herbes",
                     "statut": "à venir",
                     "video": "",
-                    "icon": "/poele.png",
+                    "icon": "/epice.png",
                     "icon_hover": "/poele_jaune.png",
                     "questions": []
                 },
@@ -393,15 +363,7 @@
                     "titre": "Les 5 saveurs",
                     "statut": "à venir",
                     "video": "",
-                    "icon": "/question.png",
-                    "icon_hover": "/poele_jaune.png",
-                    "questions": []
-                },
-                {
-                    "titre": "Sauce & Vinaigrettes",
-                    "statut": "à venir",
-                    "video": "",
-                    "icon": "/question.png",
+                    "icon": "/5.png",
                     "icon_hover": "/poele_jaune.png",
                     "questions": []
                 }
