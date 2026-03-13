@@ -23,7 +23,7 @@ export default function () {
     return (
         <div className="intro">
             <div className="conteneur">
-                <video ref={video} className="video_intro" controls src="https://media.milanote.com/p/files/1W0IDa1sqFuP4z/ktu/intro.mp4" onEnded={pageSuivante}></video>
+                <video ref={video} className="video_intro" controls src="https://media.milanote.com/p/files/1W0QCk18CMAP0B/Gzs/intro_compressed.mp4" onEnded={pageSuivante}></video>
 
                 <div className="play" onClick={playVideo} style={boutonStyles}>
                     <img src="narratriceSmirk.png" />
